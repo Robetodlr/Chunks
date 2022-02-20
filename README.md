@@ -24,12 +24,23 @@ Hyperspectral data, Drill-cores, Mineral quantification, Geological domains, Bor
 
 -------
 
-![workflow image](docs/fig02.png)
+![workflow image](Figures/fig02.png)
 
 * General workflow for multi-scale, multivariate borehole segmentation from hyperspectral drill-core data.*
 
 -------
+![ilustrated workflow image](Figures/fig03.png)
 
+*  Illustrated workflow applied on a synthetic example..*
+
+-------
+
+Multivariate input data from drill-core hyperspectral imaging
+-------
+The multivariate data analyzed in this paper is derived from hyperspectral imaging (HIS) of drill-core material. The multivariate input data contains mineral abundance estimations at millimeter resolution along the full length of entire boreholes. The predicted minerals include: Muscovite, Biotite, Magnesium Chlorite, Iron Chlorite, Siderite, Ankerite, Iron Oxide, Quartz, Sulphides group 1 (grouping Pyrite, Arsenopyrite, Sphalerite and Galena) and Sulphides group 2 (grouping Chalcopyrite, Bornite, Covellite and Bournonite). A detailed explanation on the processing of the HSI from drill-cores to obtain the mineral abundances along boreholes is presented by De La Rosa et al. (2021) where a supervised learning algorithm for estimating mineral quantities in drill-cores was applied. 
+
+De La Rosa, R., Khodadadzadeh, M., Tusa, L., Kirsch, M., Gisbert, G., Tornos, F., Tolosana-Delgado, R., and Gloaguen, R.: Mineral quantification at deposit scale using drill-core hyperspectral data: A case study in the Iberian Pyrite Belt, Ore Geology Reviews, 139 Part B, 104 514, https://doi.org/10.1016/j.oregeorev.2021.104514, 2021.
+-------
 
 Contributing to  Chunks
 -------
