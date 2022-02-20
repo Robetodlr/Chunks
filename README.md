@@ -25,13 +25,12 @@ Hyperspectral data, Drill-cores, Mineral quantification, Geological domains, Bor
 
 
 
-![workflow image](Figures/fig02.png)
+workflow image will be embedded here after publication
 
 * General workflow for multi-scale, multivariate borehole segmentation from hyperspectral drill-core data.*
 
 
-![ilustrated workflow image](Figures/fig03.png)
-
+Ilustrated workflow image will be embedded here after publication
 *  Illustrated workflow applied on a synthetic example.*
 
 
