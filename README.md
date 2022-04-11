@@ -1,7 +1,7 @@
 # Chunks
 -------
 An open-source multi-scale geological logging from drill-core multivariate data.
-This is the code repository for the publication submitted to Geoscientific Model Development (GMD). 
+This is the code repository for the publication submitted to Computers & Geosciences Journal 04-2022. 
 
 Title
 -------
